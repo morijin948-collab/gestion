@@ -1,0 +1,154 @@
+{
+  "categories": [
+    {
+      "id": "a05f59f9",
+      "nom": "CAHIERS"
+    },
+    {
+      "id": "b06346be",
+      "nom": "PAPETERIE"
+    },
+    {
+      "id": "51ff29cb",
+      "nom": "ECRITURE"
+    },
+    {
+      "id": "73fac189",
+      "nom": "TRACAGE"
+    },
+    {
+      "id": "02f42559",
+      "nom": "CLASSEUR"
+    },
+    {
+      "id": "1894c589",
+      "nom": "MATERIEL CREATIF"
+    },
+    {
+      "id": "06594c0d",
+      "nom": "BAGAGERIE ET DIVERS"
+    }
+  ],
+  "articles": [
+    {
+      "id": "e91052f9",
+      "category_id": "a05f59f9",
+      "nom": "cahiers simple 50 pages",
+      "quantite": 40.0,
+      "prix_achat": 80.0,
+      "prix_vente": 200.0
+    },
+    {
+      "id": "2b64f5d0",
+      "category_id": "a05f59f9",
+      "nom": "cahiers simples 100 pages",
+      "quantite": 30.0,
+      "prix_achat": 320.0,
+      "prix_vente": 350.0
+    },
+    {
+      "id": "c56c4608",
+      "category_id": "a05f59f9",
+      "nom": "cahiers simples 200 pages",
+      "quantite": 10.0,
+      "prix_achat": 240.0,
+      "prix_vente": 400.0
+    },
+    {
+      "id": "da6d0904",
+      "category_id": "a05f59f9",
+      "nom": "cahiers simples 200 pages PRIVILEGE",
+      "quantite": 10.0,
+      "prix_achat": 240.0,
+      "prix_vente": 500.0
+    },
+    {
+      "id": "f5c5dcbd",
+      "category_id": "a05f59f9",
+      "nom": "cahiers simples 300 pages",
+      "quantite": 15.0,
+      "prix_achat": 1100.0,
+      "prix_vente": 900.0
+    },
+    {
+      "id": "4d0d8b9e",
+      "category_id": "a05f59f9",
+      "nom": "cahiers Double ligne 32 pages",
+      "quantite": 16.0,
+      "prix_achat": 160.0,
+      "prix_vente": 250.0
+    },
+    {
+      "id": "2135396d",
+      "category_id": "a05f59f9",
+      "nom": "cahiers étudiant 100 pages",
+      "quantite": 12.0,
+      "prix_achat": 360.0,
+      "prix_vente": 550.0
+    },
+    {
+      "id": "4bb07870",
+      "category_id": "a05f59f9",
+      "nom": "cahiers étudiant 200 pages",
+      "quantite": 12.0,
+      "prix_achat": 400.0,
+      "prix_vente": 900.0
+    },
+    {
+      "id": "fa8fc20d",
+      "category_id": "a05f59f9",
+      "nom": "cahiers étudiant 300 pages",
+      "quantite": 15.0,
+      "prix_achat": 0.0,
+      "prix_vente": 1500.0
+    },
+    {
+      "id": "5542aec3",
+      "category_id": "a05f59f9",
+      "nom": "cahiers de recherche 200 pages",
+      "quantite": 8.0,
+      "prix_achat": 0.0,
+      "prix_vente": 1000.0
+    },
+    {
+      "id": "bb762231",
+      "category_id": "a05f59f9",
+      "nom": "cahiers de recherche 300 pages",
+      "quantite": 7.0,
+      "prix_achat": 0.0,
+      "prix_vente": 1500.0
+    },
+    {
+      "id": "cbe79f6f",
+      "category_id": "a05f59f9",
+      "nom": "TP simple 100 pages",
+      "quantite": 10.0,
+      "prix_achat": 160.0,
+      "prix_vente": 700.0
+    },
+    {
+      "id": "2bf02710",
+      "category_id": "a05f59f9",
+      "nom": "TP original 200 pages",
+      "quantite": 5.0,
+      "prix_achat": 1400.0,
+      "prix_vente": 1800.0
+    },
+    {
+      "id": "d864db1a",
+      "category_id": "a05f59f9",
+      "nom": "TP simple 300 pages",
+      "quantite": 6.0,
+      "prix_achat": 720.0,
+      "prix_vente": 1500.0
+    },
+    {
+      "id": "9ee46b2d",
+      "category_id": "b06346be",
+      "nom": "Paquet de Ram A4",
+      "quantite": 5.0,
+      "prix_achat": 2500.0,
+      "prix_vente": 4000.0
+    }
+  ]
+}
